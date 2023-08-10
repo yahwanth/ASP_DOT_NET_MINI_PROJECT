@@ -14,7 +14,7 @@ Want to be a donor? Registration page -Module 2
 ![Register](registerSuccess.png)
 
 
-![SucessfulRegister](https://github.com/ChiragJindal21/AspDotNet_Project/blob/main/registerSuccess.png)
+![SucessfulRegister](registerSuccess.png)
 
 
 Already a user? Sign In -Module 3
