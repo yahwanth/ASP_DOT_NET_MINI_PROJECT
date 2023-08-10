@@ -11,7 +11,7 @@ Default Page (Search for donors)-Module 1
 
 Want to be a donor? Registration page -Module 2
  
-![Register]( https://github.com/ChiragJindal21/AspDotNet_Project/blob/main/register.png)
+![Register](registerSuccess.png)
 
 
 ![SucessfulRegister](https://github.com/ChiragJindal21/AspDotNet_Project/blob/main/registerSuccess.png)
