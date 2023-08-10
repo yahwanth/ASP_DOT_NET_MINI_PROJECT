@@ -6,7 +6,7 @@ Default Page (Search for donors)-Module 1
 
 ![defaultPage]( Defaultmini.png)
 
-![SearchResult](https://github.com/ChiragJindal21/AspDotNet_Project/blob/main/searchResult.png)
+![SearchResult](searchResult.png)
 
 
 Want to be a donor? Registration page -Module 2
