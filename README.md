@@ -21,5 +21,5 @@ Already a user? Sign In -Module 3
 
 ![SignIn](signIn.png)
 
-![signInsucess](https://github.com/ChiragJindal21/AspDotNet_Project/blob/main/signInsuccess.png)
+![signInsucess](signInsuccess.png)
 
