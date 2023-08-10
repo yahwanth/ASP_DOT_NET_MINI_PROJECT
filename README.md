@@ -4,7 +4,7 @@ Munagala Krishna Sai,Mahvash Fatima, Arghya Mukherjee,Donikena Yashwanth , Chira
 
 Default Page (Search for donors)-Module 1
 
-![defaultPage]( https://github.com/ChiragJindal21/AspDotNet_Project/blob/main/Defaultmini.png)
+![defaultPage]( Defaultmini.png)
 
 ![SearchResult](https://github.com/ChiragJindal21/AspDotNet_Project/blob/main/searchResult.png)
 
